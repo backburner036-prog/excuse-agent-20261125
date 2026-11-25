@@ -1,6 +1,6 @@
 """One line: the excuse my agent gave me for missing a deadline.
 
-Writes a single line to /output/entry.txt.
+Writes a single line (102 chars, cap 200) to /output/entry.txt.
 """
 
 from pathlib import Path
